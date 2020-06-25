@@ -1,0 +1,4 @@
+export("fracAns", "fracDo", "fracMake", "stopPrime")
+importFrom("grDevices", "xy.coords")
+importFrom("utils", "flush.console")
+import("gmp")
