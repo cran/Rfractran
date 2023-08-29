@@ -1,9 +1,9 @@
-358bbba639e47280b22acd0f0c866aff *DESCRIPTION
+acb93036c70a8cae7dd7323a436554ae *DESCRIPTION
 7bd8c8b436803e87fe5b18e94be130f0 *NAMESPACE
 6a5c6eaf701920b9bd0be475cbc37638 *R/fractran.r
-e15afcdc07fad3f71403c5d429e15820 *build/partial.rdb
+606f7ef025d47309a572681ebd871f4b *build/partial.rdb
 bb390e6903920f06875d329e98b2f114 *man/Rfractran-package.Rd
 48f447d32b95f30ba4092c8052ab990d *man/fracAns.Rd
-f9c584539de28071e1944500dffee4e9 *man/fracDo.Rd
+a31b2a1de9989f764361c4071fc94241 *man/fracDo.Rd
 498c6136ec954d3bcf135f3079b67ad3 *man/fracMake.Rd
 87337f547db5a96bba60052ebdbd91f1 *man/stopPrime.Rd

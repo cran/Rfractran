@@ -38,7 +38,7 @@ A 'safety' limiter on the number of times to process the next integer
 }
   \item{stopFun}{
 Optional user-supplied function that can be used to terminate a FRACTRAN
- run early, or to take min-run actions such as sending information to 
+ run early, or to take mid-run actions such as sending information to 
   the console.  See Details for more information. 
 }
   \item{liveUpdate}{
